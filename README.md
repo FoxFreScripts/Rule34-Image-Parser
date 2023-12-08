@@ -15,7 +15,7 @@ json FORMAT
   ]
 }
 
-OR
+Example:
 
 {
     "tags": ["furry", "vaporeon", "video"]
