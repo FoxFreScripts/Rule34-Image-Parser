@@ -24,7 +24,7 @@ The script will start fetching and downloading images from rule34.xxx based on t
 Images will be saved in a folder named 'PO' in the same directory as the script.
 Review Results:
 
-Once the download is complete, check the 'PO' folder to see the downloaded images.
+Once the download is complete, check the 'PO_N' folder to see the downloaded images.
 Images will be named based on their post ID, score, and tags.
 Note:
 
