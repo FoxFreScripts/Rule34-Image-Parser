@@ -1,6 +1,8 @@
 # Rule34-Image-Parser
 Grabs porn from rule34.xxx
-
+# How to use
+Install latest version of python --> https://www.python.org/downloads/
+run the RUN.bat file
 Prepare Tags:
 
 Open the tags.json file.
