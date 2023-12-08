@@ -6,7 +6,7 @@ Prepare Tags:
 Open the tags.json file.
 Add your desired tags following the existing format. Make sure the tags are from rule34.xxx, as this parser uses them for the search.
 json FORMAT
-
+# IMPORTANT FOR TAGS CHANGE THEN IN THE tags.json FILE
 {
   "tags": [
     "tag1",
@@ -14,6 +14,13 @@ json FORMAT
     "tag3"
   ]
 }
+
+OR
+
+{
+    "tags": ["furry", "vaporeon", "video"]
+}
+
 Run the Script: by doing python
 
 Execute the script using your Python environment.
